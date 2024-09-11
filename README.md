@@ -27,13 +27,13 @@ Global water resources are depleting, with a looming threat of **"Zero Water Day
 - Streamlined management, reducing labor-intensive breakdown work.
 - Incorporates **live inspections**, **image analytics**, and **laser projections** for more accurate assessments of water supply distribution lines.
 
-## Organisation
+### Organisation
 - Ministry of Housing & Urban Affairs
 
-## Category
+### Category
 - Software
 
-## Domain Bucket
+### Domain Bucket
 - Clean & Green Technology
 
 ## Yotube Link https://youtu.be/ZJCm2JW1PTM
