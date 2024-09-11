@@ -6,7 +6,7 @@ Global water resources are depleting, with a looming threat of "**Zero Water Day
 **Benefits:**
 • Enhanced service delivery and repair efficiency.
 • Reduced water leakage and improved pipeline assessment.
-• Early leak detection and quick action on contamination complaints./n
+• Early leak detection and quick action on contamination complaints.\n
 • GIS mapping for pipelines and streamlined maintenance.
 • Incorporates live inspections, image analytics, and laser projections for accuracy.
 ## Organisation
