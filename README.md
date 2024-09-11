@@ -1,8 +1,14 @@
-## PS ID - 1514
-## PS Title 
-Comprehensive inspection & analysis of water supply distribution lines.
 ## Description....
-Water resources across the globe are slowly on the depletion and its forecasted that the ZERO water day will not be far away if water resources ate not protected well. one the the crucial area that stilp lies in the human hands is to save the watet leakages and pay a strong water distrulibution network that improves effeicient use of water.The challenge is to conduct thorough inspections of water supply distribution lines, ranging from 100 to 200mm in diameter, in order to detect leakages, pilferage, damage, and other issues. The solution requires access to a cloud_based dashboard for data analytics, visualization, and report generation. The solution enhance service delivery, improve repair work efficiency, reduce water leakage, and streamline pipeline condition assessment. The solution should enable immediate action on contamination complaints, early detection of leaks, reduction in labor_intensive breakdown management, and facilitate GIS mapping of the pipelines. Overcoming deployment constraints involving live inspections, image analytics, and laser projections will ensure accurate and efficient assessment of the water supply distribution lines
+Global water resources are depleting, with a looming threat of "**Zero Water Day**" if conservation efforts fail.
+**Key focus:** Prevent water leakage and build an efficient distribution network.
+**Challenge:** Inspect water supply lines (100-200mm diameter) for issues like leakages, pilferage, and damage.
+**Solution:** Cloud-based dashboard for data analytics, visualization, and report generation.
+**Benefits:**
+• Enhanced service delivery and repair efficiency.
+• Reduced water leakage and improved pipeline assessment.
+• Early leak detection and quick action on contamination complaints.
+• GIS mapping for pipelines and streamlined maintenance.
+• Incorporates live inspections, image analytics, and laser projections for accuracy.
 ## Organisation
 • Ministry of Housing & Urban Affairs
 ## Category 
