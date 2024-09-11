@@ -2,7 +2,7 @@
 
 Global water resources are depleting, with a looming threat of **"Zero Water Day"** if conservation efforts are not taken seriously.
 
-### Key Focus:
+### 🔑 Key Focus:
 - Prevent water leakage.
 - Build an efficient water distribution network.
 
@@ -28,8 +28,12 @@ Global water resources are depleting, with a looming threat of **"Zero Water Day
 - Incorporates **live inspections**, **image analytics**, and **laser projections** for more accurate assessments of water supply distribution lines.
 
 ## Organisation
-• Ministry of Housing & Urban Affairs
-## Category 
-• Software
+- Ministry of Housing & Urban Affairs
+
+## Category
+- Software
+
 ## Domain Bucket
-• Clean & Green Technology
+- Clean & Green Technology
+
+## Yotube Link https://www.youtube.com/
